@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/FloatTech/AnimeAPI/aireply"
-	"github.com/FloatTech/AnimeAPI/chatgpt"
+	"github.com/Haorwen/AnimeAPI/chatgpt"
 	"github.com/FloatTech/AnimeAPI/tts/genshin"
 	"github.com/FloatTech/floatbox/binary"
 	ctrl "github.com/FloatTech/zbpctrl"
